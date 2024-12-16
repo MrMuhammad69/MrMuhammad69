@@ -5,11 +5,11 @@
 - 🛠️ Technologies I work with include:
   - **Frontend**: React, Next.js, Angular, ShadCN, TailwindCSS, Material-UI  
   - **Backend**: Express.js, Node.js, Drizzle ORM, MongoDB, Prisma  
-  - **Tools**: Sonner, React-Hook-Form, Axios, Cloudinary, and more.  
+  - **Tools**: Sonner, React-Hook-Form, Axios, Cloudinary, you name it and i have worked with it 😁😁.  
 - 💞️ Currently not looking to collaborate but open to ideas!  
 - 📫 Reach me at: **ibneabdullatifjud@gmail.com**  
 - 😄 Pronouns: MBAL  
-- ⚡ Fun fact: I’m 16, so technically a teen coder, but definitely not your typical nerd! I’ve played cricket at the district level and am an active football player. I’m also passionate about trading, building exciting projects, and achieving financial independence.  
+- ⚡ Fun fact: I am the most uncreative person you know.  
 
 <!---
 MrMuhammad69/MrMuhammad69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
