@@ -9,7 +9,7 @@
 - 💞️ Currently not looking to collaborate but open to ideas!  
 - 📫 Reach me at: **ibneabdullatifjud@gmail.com**  
 - 😄 Pronouns: MBAL  
-- ⚡ Fun fact: Here you will only see clones of popular websites with functionalities of my likings that i make to test and nourish my skills. The websites that i make professionally are not public due to privacy reasons.
+- ⚡ Fun fact: Here you will only see clones of popular websites with functionalities of my likings that i make to test and nourish my skills. I would love to develope SAAS web apps.
 
 <!---
 MrMuhammad69/MrMuhammad69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
